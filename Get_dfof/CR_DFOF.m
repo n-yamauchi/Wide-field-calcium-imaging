@@ -2,7 +2,7 @@ function [baseline, df, df_f] = CR_DFOF(downsamp_im)
 % Get total frame number and smooth frame;
 totalPixel = size(downsamp_im,1);
 totalFrame = size(downsamp_im,2);
-frameRate = 30;
+frameRate = 20; % 60; %30;
 smoothFrame = 30*frameRate/2; % Smooth over 30 seconds around each sample time point
 
 % Initialization
