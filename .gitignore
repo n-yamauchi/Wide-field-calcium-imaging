@@ -8,3 +8,5 @@
 *.ets
 *.txt
 *.csv
+
+!PCA_and_ICA/Subaxis/license.txt
