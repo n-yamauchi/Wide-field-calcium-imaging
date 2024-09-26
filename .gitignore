@@ -1,0 +1,12 @@
+*.tif
+*.mat
+*.avi
+*.png
+*.docx
+*.fig
+*.vsi
+*.ets
+*.txt
+*.csv
+
+!PCA_and_ICA/Subaxis/license.txt
